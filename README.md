@@ -8,7 +8,7 @@ consider the following part of a sample action (.yml) file located in your repo 
 ...
 steps:
   - uses: actions/checkout@v3
-  - uses: mebyz/ambient-0.1.1-build-action@v1
+  - uses: mebyz/ambient-build@v1
 ...
 ```
 
