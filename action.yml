@@ -1,4 +1,4 @@
-name: ambient-build
+name: ambient-0.1.1-build-action
 description: build your ambientRun/Ambient projects (uses ambient v0.1.1)
 author: Emmanuel BOTROS YOUSSEF FEISTHAUER (mebyz)
 branding:
